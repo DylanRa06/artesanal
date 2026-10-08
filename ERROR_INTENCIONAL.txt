@@ -1,3 +1,0 @@
-Exception in thread "main" java.lang.NullPointerException: Cannot invoke "java.util.ArrayList.add(Object)" because "this.clientes" is null
-	at com.krakedev.artesanal.NegocioMejorado.registrarCliente(NegocioMejorado.java:26)
-	at com.krakedev.artesanal.test.TestClientesError.main(TestClientesError.java:8)
